@@ -1,7 +1,6 @@
 # Data_Structures_Exercises
-Proyecto de implementación de Stacks,Queue,Linked List y Binary Trees para Dev.F
+Proyecto de implementación de Stacks,Queue,Linked List, Binary Trees y busquedas secuenciales/binarias para Dev.F
 
-Ejercicios:
 Pilas
 1.- Hacer una función que reciba como parámetros una pila, y un número.
   La función debe retornar tantos elementos como diga el número (segundo parámetro).
